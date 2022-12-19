@@ -7,8 +7,8 @@
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "204703142",
 
-            "int_interval" : 2,
-            "activate_ads" : "false",
+            "int_interval" : 5,
+            "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "",
@@ -30,7 +30,7 @@
             "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
             "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
 
-            "iron_source_key": "",
+            "iron_source_key": "17d8bb3cd",
 
             "main_ico": "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/okvfz/main/4.png",
             
