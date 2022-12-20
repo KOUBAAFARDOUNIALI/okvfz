@@ -7,7 +7,7 @@
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "204703142",
 
-            "int_interval" : 5,
+            "int_interval" : 3,
             "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
@@ -147,7 +147,7 @@
     
     "menu" : [
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "SIGMA Tips",
             "ico" : "",
             "bg" : "#FB923C"
@@ -157,7 +157,7 @@
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/okvfz/main/Nouveau%20dossier/1.png",
             "bg" : "#673AB7"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "spinner",
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/okvfz/main/Nouveau%20dossier/2.png",
             "bg" : "#A3E635"
@@ -177,7 +177,7 @@
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/okvfz/main/Nouveau%20dossier/5.png",
             "bg" : "#4ADE80"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "wallpapers",
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/okvfz/main/Nouveau%20dossier/6.png",
             "bg" : "#2196F3"
@@ -187,7 +187,7 @@
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/okvfz/main/Nouveau%20dossier/7.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "games",
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/okvfz/main/Nouveau%20dossier/8.png",
             "bg" : "#673AB7"
