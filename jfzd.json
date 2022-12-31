@@ -7,7 +7,7 @@
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "204703142",
 
-            "int_interval" : 1,
+            "int_interval" : 2,
             "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
@@ -147,7 +147,7 @@
     
     "menu" : [
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
@@ -162,7 +162,7 @@
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/okvfz/main/Nouveau%20dossier/2.png",
             "bg" : "#A3E635"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "scratch",
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/okvfz/main/Nouveau%20dossier/3.png",
             "bg" : "#38BDF8"
@@ -172,7 +172,7 @@
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/okvfz/main/Nouveau%20dossier/4.png",
             "bg" : "#2DD4BF"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "quiz",
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/okvfz/main/Nouveau%20dossier/5.png",
             "bg" : "#4ADE80"
